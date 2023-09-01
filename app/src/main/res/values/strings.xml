@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maravilhas_Mundo</string>
+    <string name="maravilhas">As 7 maravilhas do mundo:</string>
+    <string name="dados_1">Cristo Redentor</string>
+    <string name="dados_2">Grande Muralha da China</string>
+    <string name="dados_3">Petra</string>
+    <string name="dados_4">Coliseu</string>
+    <string name="dados_5">Chichén Itzá</string>
+    <string name="dados_6">Machu Picchu</string>
+    <string name="dados_7">Taj Mahal</string>
+</resources>
